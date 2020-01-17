@@ -1,7 +1,0 @@
-print("Hello World")
-print("jjhhg")
-print("hhhh")
-print("ayush modi")
-print("jyfv")
-print("fat boy what is your name")
-print("fall out the print")
